@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import "#src/ui/default_viewer.css";
+// import "#src/ui/default_viewer.css";
 import {
   disableContextMenu,
   disableWheel,
